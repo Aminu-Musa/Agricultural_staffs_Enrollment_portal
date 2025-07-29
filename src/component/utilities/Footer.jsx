@@ -10,7 +10,6 @@ const Footer = () => {
 
         <div className="footer__flex__container">
 
-
           <div>
             <div className="footer_img">
               <img src={arcn_logo} alt="" />
